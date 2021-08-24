@@ -1,0 +1,10 @@
+[
+    {
+        "is_group": false,
+        "messages": "sample-flutter-app-20210815/messages",
+        "talk_icon": "/path/base",
+        "talk_id": "ZZZZZZZZ",
+        "talk_title": "ダミーデータ",
+        "target_users": ["XXXXXXXX","YYYYYYYY"]
+    }
+]
